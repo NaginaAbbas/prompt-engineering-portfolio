@@ -1,0 +1,22 @@
+# AI Chatbot Project
+
+This project demonstrates the use of prompt engineering in building an intelligent chatbot.
+
+## Features:
+- Handles user queries in natural language.
+- Provides helpful and accurate responses by crafting effective prompts.
+  
+## Technologies:
+- OpenAI API
+- Python (Flask for web interface)
+  
+## Example Prompt:
+"User: What is the capital of France?"
+Prompt: "Respond with the name of the capital city of France."
+
+**Expected Output**: "The capital of France is Paris."
+
+## Instructions
+1. Clone the repository.
+2. Set up OpenAI API key.
+3. Run the Flask app to interact with the chatbot.

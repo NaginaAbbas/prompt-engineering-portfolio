@@ -1,3 +1,4 @@
-**Prompt**: "Summarize the following news article in less than 100 words: The global economy is showing signs of recovery after a period of significant downturn due to the pandemic. Governments worldwide are implementing stimulus packages to revive businesses and create jobs. International trade is slowly picking up, and consumer confidence is rising. However, there are concerns about inflation and supply chain disruptions that could hinder long-term growth."
+**Simplified Prompt**:
+"Summarize the news article about global economic recovery in under 100 words."
 
-**Expected Output**:  A concise summary that captures the key points of the article: "The global economy is recovering as governments introduce stimulus packages to support businesses and jobs. While international trade and consumer confidence are improving, concerns remain about inflation and supply chain issues that could impact sustained growth."
+**Expected Output File Name**: summary_output.txt

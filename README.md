@@ -1,7 +1,3 @@
-Here's the revised portfolio with your **education** section included:  
-
----
-
 # **AI Prompt Engineering Portfolio**  
 
 Welcome to my **AI Prompt Engineering Portfolio**! This repository showcases my expertise in crafting innovative, efficient, and optimized prompts for advanced AI models, including the **OpenAI GPT series**.  
